@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TcheloPena
+- 👋 Hi, I’m @Coder.Pena
 - 👀 I’m interested in Python, SQL ANSI and SAS
 - 🌱 I’m currently learning Data Modeling
 - 💞️ I’m looking to collaborate on challenging stuff
