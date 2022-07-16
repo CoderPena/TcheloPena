@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coder.Pena
-- 👀 I’m interested in Python, SQL ANSI and SAS
+- 👀 I’m interested in SQL ANSI, Java, Python and SAS
 - 🌱 I’m currently learning Data Modeling
 - 💞️ I’m looking to collaborate on challenging stuff
 - 📫 How to reach me: coder.pena@gmail
